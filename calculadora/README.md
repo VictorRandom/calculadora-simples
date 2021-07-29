@@ -1,4 +1,7 @@
-![Imagem](calculadora.png)
+<h1 align="center">
+  <img src = "calculadora.PNG">
+</h1>
+
 
 # Calculadora Simples
 
